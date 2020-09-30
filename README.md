@@ -1,6 +1,6 @@
 ### Hi there, I'm Sami 👋
 
-## I'm an undergrad @brooklyncollege and an aspiring Web Developer and Devops Engineer!
+## I'm an undergrad @BrooklynCollege and an aspiring Web Developer and Devops Engineer!
 
 - 🔭 I’m a senior at Brooklyn College pursuing a degree in Computer Science!
 - 🌱 I’m currently taking programming classes in Operating Systems, System and Network Administration and Programming Paradigms in C++. Apart from my daily courses, I've taken a keen interest in DevOps.
