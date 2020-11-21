@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="img/hello.gif"/>
+</p>
+
 ### Hi there, I'm Sami 👋
 
 ## I'm an undergrad @BrooklynCollege and an aspiring Web Developer and Cloud Engineer!
