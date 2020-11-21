@@ -38,7 +38,10 @@
 </details>
 
 <details>
+  
   <summary>Language Stats</summary>
   <p align="center">
     <img src="https://wakatime.com/share/@4ec79226-a4a6-4c6f-9b45-d280ef4ea072/925ed41d-45b6-410b-918f-8b0b59050e0a.svg" height="450"/>
+  </p>
+  
 </details>
