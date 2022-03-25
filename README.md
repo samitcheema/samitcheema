@@ -4,11 +4,8 @@
 
 ### Hi there, I'm Sami 👋
 
-## I'm an undergrad @BrooklynCollege and an aspiring Web Developer and Cloud Engineer!
-
-- 🔭 I’m a senior at Brooklyn College pursuing a degree in Computer Science
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Work on more interesting and challenging projects and keep my sanity throughout this year 🤣
+- 🥅 2022 Goals: Work on more interesting and challenging projects and keep my sanity throughout this year 🤣
 
 <br />
 
