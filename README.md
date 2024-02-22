@@ -5,7 +5,7 @@
 ### Hi there, I'm Sami 👋
 
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Work on more interesting and challenging projects and keep my sanity throughout this year 🤣
+- 🥅 2024 Goals: Find a fulfiling job.
 
 <br />
 
